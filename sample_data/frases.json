@@ -1,0 +1,66 @@
+[
+    {
+        "pregunta": "Hola",
+        "respuesta": "¡Hola! ¿Cómo puedo ayudarte?"
+    },
+    {
+        "pregunta": "¿Cómo estás?",
+        "respuesta": "Soy un bot, ¡estoy siempre listo para ayudarte!"
+    },
+    {
+        "pregunta": "¿Qué puedes hacer?",
+        "respuesta": "Puedo ayudarte con consultas de saldo y transacciones."
+    },
+    {
+        "pregunta": "Perdí mi tarjeta",
+        "respuesta": "Lamento oír eso. Bloquearemos tu tarjeta."
+    },
+    {
+        "pregunta": "¿Saldo de cuenta?",
+        "respuesta": "Por favor, inicia sesión en la aplicación para ver el saldo."
+    },
+    {
+        "pregunta": "Transferir dinero",
+        "respuesta": "Puedes transferir dinero a través de nuestra aplicación."
+    },
+    {
+        "pregunta": "Necesito ayuda",
+        "respuesta": "Por supuesto, estoy aquí para ayudarte."
+    },
+    {
+        "pregunta": "Crear cuenta",
+        "respuesta": "Puedes crear una cuenta en nuestra web."
+    },
+    {
+        "pregunta": "Olvidé contraseña",
+        "respuesta": "Usa la opción 'Recuperar contraseña' en la aplicación."
+    },
+    {
+        "pregunta": "Cerrar cuenta",
+        "respuesta": "Por favor, contacta con nuestro servicio de atención al cliente."
+    },
+    {
+        "pregunta": "Sucursal más cercana",
+        "respuesta": "Consulta nuestra web para la localización de las sucursales."
+    },
+    {
+        "pregunta": "Depositar cheque",
+        "respuesta": "Puedes depositar cheques en nuestras sucursales."
+    },
+    {
+        "pregunta": "Quiero ahorrar",
+        "respuesta": "Ofrecemos cuentas de ahorro. Consulta nuestra web."
+    },
+    {
+        "pregunta": "Préstamos",
+        "respuesta": "Ofrecemos préstamos. Consulta detalles en nuestra web."
+    },
+    {
+        "pregunta": "Jubilación",
+        "respuesta": "Tenemos planes de jubilación. Consulta nuestra web."
+    },
+    {
+        "pregunta": "Cambiar PIN",
+        "respuesta": "Puedes cambiar tu PIN en la aplicación."
+    }
+]
